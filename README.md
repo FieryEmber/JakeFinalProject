@@ -8,3 +8,5 @@ This project utilizes the sakila sample database in conjunction with MySQL Workb
 Login and DBConnection handle the login and connection to the database.
 
 CustomerMgtMain is the main menu file that handles the core navigation of the program.
+
+<br> <img src = "ss.png"> </br>
