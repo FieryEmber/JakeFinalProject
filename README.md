@@ -10,4 +10,4 @@ Login and DBConnection handle the login and connection to the database.
 CustomerMgtMain is the main menu file that handles the core navigation of the program.
 
 <br> <img src = "ss.png"> </br>
-<br><a href = "http://www.catawba.edu">Link to bleh</a></br>
+<br><a href = "http://www.catawba.edu">Link to Catawba College</a></br>
